@@ -37,7 +37,7 @@ Enterprise governance operations dashboard featuring:
 - Governance Metrics
 - Cloud Operational Health
 
-**Live Demo
+**Live Demo**
 
 https://cloud-governance-operations.streamlit.app/
 
@@ -52,6 +52,10 @@ Interactive Tableau dashboard analyzing:
 - Genres
 - Geographic Insights
 - Executive KPIs
+
+**Live Demo**
+
+https://public.tableau.com/app/profile/kareem.watts6228/viz/NetflixDashboard_16738648853780/Dashboard1
 
 ---
 
